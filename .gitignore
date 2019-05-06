@@ -1,0 +1,12 @@
+db.sqlite3
+
+# Python bytecode files
+*.pyc
+# DIRECTORIES
+.vscode/*
+# media
+media/*
+
+# MIGRATIONS
+# example app_folder/migrations/*
+*/migrations/*
